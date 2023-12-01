@@ -1,6 +1,6 @@
 # Broaden_your_view-image-mosaicking
 
-[![Paper](https://img.shields.io/badge/paper-arXiv%3A2007.00151-green)](https://arxiv.org/abs/2311.13052)
+[![Paper](https://img.shields.io/badge/paper-arXiv-green)](https://arxiv.org/abs/2311.13052)
 
 This repository is the official implementation of [NOVEL OCT MOSAICKING PIPELINE WITH FEATURE- AND PIXEL-BASED REGISTRATION](https://arxiv.org/pdf/2311.13052.pdf). A novel OCT image mosaicking pipeline that bridges the gap between feature-based and pixel-based registration. We also investiage how to apply [SAM](https://segment-anything.com/) into the mosaicking evaluation pipeline.
 
